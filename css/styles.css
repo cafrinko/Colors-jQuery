@@ -6,6 +6,11 @@
   background-color: yellow;
 }
 
+.outer-box {
+  border: 1px solid green;
+  padding: 5px;
+}
+
 .red-background {
   background-color: red;
 }

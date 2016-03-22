@@ -26,4 +26,9 @@ $(document).ready(function() {
     $("body").addClass("text-black");
   });
 
+  $("span").click(function() {
+    $(this).addClass("yellow-background");
+    $(this).addClass("outer-box");
+  });
+
 });
